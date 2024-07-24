@@ -1,0 +1,9 @@
+/workspaces/to/src/main/java/com/to_do/dresslert/DresslertApplication.java
+/workspaces/to/src/main/java/com/to_do/dresslert/controller/TaskController.java
+/workspaces/to/src/main/java/com/to_do/dresslert/controller/UserController.java
+/workspaces/to/src/main/java/com/to_do/dresslert/model/Task.java
+/workspaces/to/src/main/java/com/to_do/dresslert/model/User.java
+/workspaces/to/src/main/java/com/to_do/dresslert/repository/TaskRepository.java
+/workspaces/to/src/main/java/com/to_do/dresslert/repository/UserRepository.java
+/workspaces/to/src/main/java/com/to_do/dresslert/services/TaskService.java
+/workspaces/to/src/main/java/com/to_do/dresslert/services/UserService.java
